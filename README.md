@@ -1,6 +1,10 @@
 # 👋 Salom, men @devcod18
 Men Java va Spring Boot asosida ishlovchi backend dasturchiman!
 
+---
+
+<div align="center"> 
+
 ## GitHub Statistikalarim:
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=devcod18&show_icons=true&theme=radical" alt="GitHub stats" /> 
@@ -8,6 +12,7 @@ Men Java va Spring Boot asosida ishlovchi backend dasturchiman!
     <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcod18&layout=compact&theme=radical" alt="Most Used Languages" />
   </div>
+</div>
 </div>
 
 ---
