@@ -6,11 +6,11 @@ Men Java va Spring Boot asosida ishlovchi backend dasturchiman!
 
 ## GitHub Statistikalarim:
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=devcod18&show_icons=true&theme=radical" alt="GitHub stats" /> 
-    <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcod18&layout=compact&theme=radical" alt="Most Used Languages" />
-    <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devcod18&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devcod18&show_icons=true&theme=radical" alt="GitHub stats" style="display:inline-block; margin:10px;" /> 
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcod18&layout=compact&theme=radical" alt="Most Used Languages" style="display:inline-block; margin:10px;" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcod18&theme=radical" alt="GitHub streak" style="display:inline-block; margin:10px;" />
 </div>
 
 ---
