@@ -10,7 +10,7 @@ Men Java va Spring Boot asosida ishlovchi backend dasturchiman!
     <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcod18&layout=compact&theme=radical" alt="Most Used Languages" />
     <br>
-  <img src="https://raw.githubusercontent.com/devcod18/devcod18/main/assets/total-contributions.svg" alt="Total Contributions Summary" />
+  <img src="https://raw.githubusercontent.com/devcod18/devcod18/main/total-contributions.svg" alt="Total Contributions Summary" />
 </div>
 
 ---
