@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Salom, men @devcod18
-Men Java va Spring Boot asosida ishlovchi backend dasturchiman!
+Men Java asosida ishlovchi backend dasturchiman!
 ##
 
 ## GitHub Statistikalarim:
